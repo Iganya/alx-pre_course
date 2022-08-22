@@ -1,1 +1,5 @@
-git bash
+git clone
+git add .
+git push
+git commit -m
+git pull
